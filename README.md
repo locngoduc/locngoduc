@@ -8,7 +8,7 @@
 💻 Tech Stack:
 
  - Languages: Java, JavaScript, TypeScript, SQL
- - Frontend: ReactJS, NextJS, Kotlin
+ - Frontend: ReactJS, NextJS, Kotlin (Android), Jetpack Compose
  - Backend: NodeJS, NestJS, Spring Boot
  - Database: PostgreSQL, Redis
  - Tools: Docker, WebSocket
