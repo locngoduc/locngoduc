@@ -7,12 +7,14 @@
 
 💻 Tech Stack:
 
- - Languages: Java, JavaScript, TypeScript, SQL
- - Frontend: ReactJS, NextJS, Kotlin (Android), Jetpack Compose
- - Backend: NodeJS, NestJS, Spring Boot
- - Database: PostgreSQL, Redis
- - Tools: Docker, WebSocket
- - Cloud: AWS, Azure
+- **Programming Languages**: Java, Kotlin, JavaScript/TypeScript, C#
+- **Mobile Development**: Kotlin (Android), Jetpack Compose
+- **Frontend**: React.js, Next.js
+- **Backend**: Spring Boot, NestJS, Node.js, ASP.NET Core
+- **Databases**: PostgreSQL, Redis
+- **Tools & Technologies**: Git, Docker, WebSocket
+- **Cloud Platforms**: AWS, Azure
+- **Development Methodologies**: Agile, Scrum, Kanban
 
 🚀 I'm driven by a desire to build software that makes a difference and enhances the user experience. Whether it's creating seamless backend systems or intuitive front-end interfaces, I’m always looking to innovate and improve.
 
