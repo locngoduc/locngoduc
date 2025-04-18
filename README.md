@@ -3,7 +3,7 @@
 <body>
 	<h2>About Me</h2>
 	<p>
-		👋 Hi there! I'm a passionate software engineer with 1+ years of experience developing server applications for small and medium-sized businesses. My primary focus is on crafting efficient, scalable full-stack solutions that help clients achieve their business goals.
+		👋 Hi there! I'm a passionate software engineer with experience developing server applications for small and medium-sized businesses. My primary focus is on crafting efficient, scalable full-stack solutions that help clients achieve their business goals.
 
 💻 Tech Stack:
 
